@@ -1,0 +1,45 @@
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+
+  user-select: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.pagebody {
+  font-family: Roboto, sans-serif;
+  background-color: $primary-white-color;
+  color: $primary-text-color;
+  margin: 0 auto;
+}
+
+.cursors {
+  cursor: pointer;
+}
+
+.container {
+  box-sizing: border-box;
+  width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.section {
+  padding: 94px 0;
+}
