@@ -758,7 +758,7 @@ img {
 }
 
 .feature__item {
-  display: inline-block;
+  display: block;
   width: 270px;
   height: 251px;
 }
