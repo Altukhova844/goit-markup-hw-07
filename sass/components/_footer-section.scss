@@ -22,12 +22,6 @@
   }
 }
 
-.footer__logo {
-  margin-bottom: 20px;
-
-  color: $primary-white-color;
-}
-
 .footer__link {
   display: block;
 
@@ -135,7 +129,6 @@
   color: rgba(255, 255, 255, 0.6);
 
   border: 1px solid rgba(255, 255, 255, 0.3);
-  box-sizing: border-box;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
 

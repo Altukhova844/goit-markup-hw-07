@@ -2,6 +2,9 @@
 @import "./utils/global";
 
 @import "./components/header-section";
+@import "./components/footer-section";
+@import "./components/logo";
+
 @import "./components/hero";
 @import "./components/backdrop&modal";
 @import "./components/form";
@@ -9,5 +12,6 @@
 @import "./components/services-section";
 @import "./components/our-team-section";
 @import "./components/customers-section";
-@import "./components/footer-section";
-@import "./components/portfolio";
+
+@import "./components/portfolio-btn-menu";
+@import "./components/portfolio-card-menu";

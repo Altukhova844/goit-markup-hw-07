@@ -21,12 +21,8 @@
 }
 
 .services__item {
-  box-sizing: border-box;
-  flex-basis: calc(100% - 2 * $card-set-gap / 3);
-  margin-right: $card-set-gap;
-
-  &:last-child {
-    margin-right: 0;
+  &:not(:last-child) {
+    margin-right: $card-set-gap;
   }
 }
 
